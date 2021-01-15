@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "agencyoya"
+  "defaultProject": "agencyoya",
+  "cli": {
+    "analytics": "fd5f3446-d5b7-41c7-8b2b-47459d910a28"
+  }
 }
